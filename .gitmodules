@@ -1,0 +1,3 @@
+[submodule "libs/Xamarin-Forms-Labs"]
+	path = libs/Xamarin-Forms-Labs
+	url = git@github.com:XLabs/Xamarin-Forms-Labs.git
